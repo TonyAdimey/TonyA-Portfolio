@@ -82,6 +82,12 @@ p {
     padding: 20px;
 }
 
+#bobs-burgers-project {
+    width: 800px;
+    height: 400px;
+    padding: 20px;
+}
+
 .content {
     position: relative;
 }
